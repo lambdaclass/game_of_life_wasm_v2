@@ -182,7 +182,6 @@ pub fn get_default_pattern(x_quantity: f32, y_quantity: f32) -> Vec<Vec<Cell>> {
     cells[14][16] = Cell::Alive;
     cells[14][17] = Cell::Alive;
     cells[13][12] = Cell::Alive;
-
     cells[14][11] = Cell::Alive;
     cells[15][10] = Cell::Alive;
     cells[16][9] = Cell::Alive;
